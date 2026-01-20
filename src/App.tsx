@@ -42,7 +42,7 @@ function App() {
           title="Diagnóstico de Sueño"
           subtitle="Salud Integral"
           description="El descanso es el pilar fundamental de la belleza y la salud. Realizamos diagnósticos precisos para identificar trastornos del sueño que afectan tu calidad de vida y envejecimiento celular."
-          image="https://images.unsplash.com/photo-1541781777631-fa182f3a4b3c?q=80&w=2070&auto=format&fit=crop"
+          image="https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=2070&auto=format&fit=crop"
         />
 
         <Philosophy />
